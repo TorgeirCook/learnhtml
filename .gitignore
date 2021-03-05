@@ -107,3 +107,6 @@ ENV/
 # data
 /data
 /experiments/.ipynb_checkpoints/
+
+models/
+recipe-data/
