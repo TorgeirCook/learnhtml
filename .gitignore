@@ -110,3 +110,5 @@ ENV/
 
 models/
 recipe-data/
+recipe-output/
+recipe-html/
